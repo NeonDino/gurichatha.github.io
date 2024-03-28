@@ -46,7 +46,7 @@ hr{
   }
 .profile {
   width: 60%; /* Increase the width as needed */
-  max-height: auto; /* Adjust the height as needed */
+  max-height: 10px; /* Adjust the height as needed */
   margin: auto auto 50px; /* Reduce bottom margin if desired */
   line-height: 1.6; /* Adjust line height for better readability */
   padding: 50px 0; /* Adjust top and bottom padding */
